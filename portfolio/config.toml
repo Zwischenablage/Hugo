@@ -1,8 +1,8 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = "http://danielendr.es/about/"
 languageCode = "en-us"
-title = "Daniel Endres Resume"
+title = "Daniel Endres - Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -41,38 +41,32 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: daniel.endres@zwischenablage.org"
-        title = "john.doe@website.com"
-
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+1234567890"
-        title = "+1234567890"
+        url = "mailto: contact@zwischenablage.org"
+        title = "contact@zwischenablage.org"
 
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "//danielendr.es/about"
+        title = "danielendr.es/about"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        url = "//linkedin.com/in/daniel-endres"
+        title = "linkedin.com/in/daniel-endres"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
+        url = "//github.com/zwischenablage"
+        title = "github.com/zwischenablage"
 
         [[params.contact.list]]
         class = "twitter"
         icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+        url = "//twitter.com/zwischenablage"
+        title = "@zwischenablage"
 
     # Education section
     [params.education]
@@ -80,14 +74,14 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        college = "University of London"
-        dates = "2006 - 2010"
+        degree = "MSc in Computer Science (Dipl.-Inf. (FH))"
+        college = "Augsburg University of Applied Sciences"
+        dates = "2007 - 2008"
 
         [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
+        degree = "M.A. in Interactive Media Systems"
+        college = "Augsburg University of Applied Sciences"
+        dates = "2007 - 2008"
 
     # Languages section
     [params.language]
@@ -109,10 +103,10 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "Photography"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Guitar"
 
         [[params.interests.list]]
         interest = "Cooking"
@@ -135,22 +129,28 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
+        position = "Senior Project Manager - Acoustics"
         dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
+        company = "Nuance Communications GmbH, Ulm"
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Technical Project Lead / Software Architect - Multimedia"
+        dates = "2012 - 2015"
+        company = "e.solutions GmbH, Ingolstadt"
+        details = "From 2012 and onwards, I had the role of a Technical Project Lead & Software Architect, responsible for integrating new multimedia features like BluRay, Video Streaming, Android Auto or Apple CarPlay into upcoming vehciles."
 
         [[params.jobs.list]]
-        position = "UI Developer"
+        position = "Senior Software Engineer - Multimedia"
+        dates = "2010 - 2012"
+        company = "e.solutions GmbH, Ingolstadt"
+        details = "I've joined **e.solutions** in 2010 as a **Software Engineer**. There I've contributed to the development of the **In-Vehcile Infotainment (IVI) Systems** for Audi in particular and the whole Volkswagen Group. I was responsilbe for the development of multimedia applications for playback of various audio & video formats from massstorage devices."
+
+        [[params.jobs.list]]
+        position = "Linux OS Software Developer"
         dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        company = "Igel GmbH, Augsburg"
+        details = "After university I’ve started as a **Linux Operating Systems Developer** responsible for kernel- & network Driver development, extensions of the X11-Server, as well as the extension of the access-control management."
 
     # Projects section
     [params.projects]
@@ -191,15 +191,15 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
+        skill = "Project Management"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
+        skill = "Organizational Efficiency"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Angular"
+        skill = "C/C++"
         level = "95%"
 
         [[params.skills.list]]
