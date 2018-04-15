@@ -132,7 +132,7 @@ disable404 = true
         position = "Senior Project Manager - Acoustics"
         dates = "2016 - Present"
         company = "Nuance Communications GmbH, Ulm"
-        details = "At **Nuance** I'm a **Project Manager** in the **Acoustics Speech Enhancement** department. With our main focus being the automotive industry I'm in close contact with a variety of different OEMs and First Tier suppliers. For those I'm the main contact person in contractional, orginzational and **technical** topics. The latter is the most important one over the lifetime of each project. Those technical discussions cover different aspects from requirement analysis, to recommendations regarding the overal system design, integration topics and algorithmic details. To me the possibility to get in touch with allmost every player of the automotive industry is whats so special about the position at Nuance."
+        details = "At **Nuance** I'm a **Project Manager** in the **Acoustics Speech Enhancement** department. With our main focus being the automotive industry I'm in close contact with a variety of different OEMs and First Tier suppliers. For those I'm the main contact person in contractional, orginzational and **technical** topics. The latter is the most important one over the lifetime of each project. Those technical discussions cover different aspects from requirement analysis, to recommendations regarding the overal system design, integration topics and algorithmic details. To me the possibility to get in touch with allmost every player of the automotive industry is what's so special about this role at Nuance."
         [[params.jobs.list]]
         position = "Technical Project Lead / Software Architect - Multimedia"
         dates = "2012 - 2015"
