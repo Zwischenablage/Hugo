@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://www.danielendr.es/about/"
+baseurl = "http://danielendr.es/about/"
 languageCode = "en-us"
 title = "Daniel Endres - Resume"
 theme = "hugo-orbit-theme"
