@@ -120,7 +120,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Hi there, my name is **Daniel Endres** and I'm a **Senior Project Manager** at **Nuance Communications**. <br><br>I've graduated at the University of Applied Science Augsburg with a degree in **Computer Science** and a **Master of Arts**. While my professional career started as a Linux Operating Systems developer, my passion for developing IVI's (In-Vehicle Infotainment Systems) drove me towards spending the last 8 years in the **automotive industry**."
+        summary = "Hi there, <br><br> my name is **Daniel Endres** and I'm a **Senior Project Manager** at **Nuance Communications**. <br>I've graduated at the University of Applied Science Augsburg with a degree in **Computer Science** and a **Master of Arts**. While my professional career started as a Linux Operating Systems developer, my passion for developing IVI's (In-Vehicle Infotainment Systems) drove me towards spending the last 8 years in the **automotive industry**."
 
     # Experiences section
     [params.experiences]
@@ -153,7 +153,7 @@ disable404 = true
 
     # Projects section
     [params.projects]
-        enable = true
+        enable = false
         icon = "fa-archive"
         title = "Projects"
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
@@ -194,23 +194,23 @@ disable404 = true
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Organizational Efficiency"
+        skill = "Requirement Management"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "C/C++"
-        level = "95%"
+        skill = "Linux"
+        level = "80%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "C/C++"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "Ruby on Rails"
-        level = "75%"
+        level = "70%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
+        skill = "HTML5 & CSS"
         level = "60%"
 
     # Footer section
