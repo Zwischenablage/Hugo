@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Bgency"
+title = "Daniel"
 theme = "story"
 
 # Enter your tracking code to enable Google Analytics
@@ -326,10 +326,3 @@ She worked at Pied Piper for years until they went belly up."""
     [[params.footer.quicklinks]]
       text = "Terms of Use"
       link = "#"
-
-
-      # hello world section
-      [params.hello_world]
-        enable = true
-        title = "Services"
-        subtitle = "Lorem ipsum dolor sit amet consectetur."
