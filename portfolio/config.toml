@@ -74,7 +74,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science (Dipl.-Inf. (FH))"
+        degree = "MSc in Computer Science - Dipl.-Inf. (FH)"
         college = "Augsburg University of Applied Sciences"
         dates = "2007 - 2008"
 
@@ -120,7 +120,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Hi there, <br><br> my name is **Daniel Endres** and I'm a **Senior Project Manager** at **Nuance Communications**. <br>I've graduated at the University of Applied Science Augsburg with a degree in **Computer Science** and a **Master of Arts**. While my professional career started as a Linux Operating Systems developer, my passion for developing IVI's (In-Vehicle Infotainment Systems) drove me towards spending the last 8 years in the **automotive industry**."
+        summary = "Hi there, <br><br> my name is **Daniel Endres** and I'm a **Senior Project Manager** at **Nuance Communications**. <br>I've graduated at the University of Applied Science Augsburg with a degree in **Computer Science** and a **Master of Arts**. While my professional career started as a Linux Operating Systems developer, my passion for developing IVI's (In-Vehicle Infotainment Systems) drove me towards spending the last **9 years** in the **automotive industry**."
 
     # Experiences section
     [params.experiences]
@@ -132,18 +132,18 @@ disable404 = true
         position = "Senior Project Manager - Acoustics"
         dates = "2016 - Present"
         company = "Nuance Communications GmbH, Ulm"
-        details = "At **Nuance** I'm a **Project Manager** in the **Acoustics Speech Enhancement** department. With our main focus being the automotive industry I'm in close contact with a variety of different OEMs and First Tier suppliers. For those I'm the main contact person in contractional, orginzational and **technical** topics. The latter is the most important one over the lifetime of each project. Those technical discussions cover different aspects from requirement analysis, to recommendations regarding the overal system design, integration topics and algorithmic details. To me the possibility to get in touch with allmost every player of the automotive industry is what's so special about this role at Nuance."
+        details = "At **Nuance** I'm a **Project Manager** in the **Acoustics Speech Enhancement** department. With our main focus being the automotive industry I'm in close contact with a variety of different OEMs and First Tier suppliers. For those I'm the main contact person in contractual, organizational and **technical** topics. The latter is the most important one over the lifetime of each project. Those technical discussions cover different aspects from requirement analysis, to recommendations regarding the overal system design, integration topics and algorithmic details. To me the possibility to get in touch with almost every player of the automotive industry is what's so special about this role at Nuance."
         [[params.jobs.list]]
         position = "Technical Project Lead / Software Architect - Multimedia"
         dates = "2012 - 2015"
         company = "e.solutions GmbH, Ingolstadt"
-        details = "From 2012 and onwards, I had the role of a Technical Project Lead & Software Architect, responsible for integrating new multimedia features like BluRay, Video Streaming, Android Auto or Apple CarPlay into upcoming vehciles."
+        details = "From 2012 and onwards, I had the role of a **Technical Project Lead & Software Architect**. During this period I was responsible for a coherent integration of smarphone projection technologies (like **Apple CarPlay** and **Android Auto**) into the existing infotainment system experience. The integration of  BluRay-Disc support and video streaming (front to back passengers and vice versa) are further domains I was in charge of during that period."
 
         [[params.jobs.list]]
         position = "Senior Software Engineer - Multimedia"
         dates = "2010 - 2012"
         company = "e.solutions GmbH, Ingolstadt"
-        details = "I've joined **e.solutions** in 2010 as a **Software Engineer**. There I've contributed to the development of the **In-Vehcile Infotainment (IVI) Systems** for Audi in particular and the whole Volkswagen Group. I was responsilbe for the development of multimedia applications for playback of various audio & video formats from massstorage devices."
+        details = "I've joined **e.solutions** in 2010 as a **Software Engineer**. There I've contributed to the development of the **In-Vehcile Infotainment (IVI) System** for the Audi AG in particular and the whole Volkswagen Group as such. I was responsible for the development of multimedia applications for playback of various audio & video formats located on mass storage devices."
 
         [[params.jobs.list]]
         position = "Linux OS Software Developer"
@@ -194,7 +194,7 @@ disable404 = true
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Requirement Management"
+        skill = "Requirements Management"
         level = "98%"
 
         [[params.skills.list]]
