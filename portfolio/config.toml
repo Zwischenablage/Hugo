@@ -76,7 +76,7 @@ disable404 = true
         [[params.education.list]]
         degree = "MSc in Computer Science - Dipl.-Inf. (FH)"
         college = "Augsburg University of Applied Sciences"
-        dates = "2007 - 2008"
+        dates = "2002 - 2007"
 
         [[params.education.list]]
         degree = "M.A. in Interactive Media Systems"
